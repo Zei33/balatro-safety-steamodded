@@ -4,7 +4,7 @@ This is a mod for Balatro which presents a confirmation window when you take pot
 ![Hex and Ankh booster pack warning](https://i.imgur.com/VXA2Rsh.png)
 
 ## Installation
-This mod requires Steamodded v1.0.0 or higher. Find [steamodded releases here](https://github.com/Steamopollys/Steamodded/wiki/01.-Getting-started). Once installed, you can extract the balatro-safety.zip release into your steamodded `Balatro/Mods` folder.
+This mod is made for Steamodded v1.0.0 or higher, but probably works with older releases. Find [steamodded releases here](https://github.com/Steamopollys/Steamodded/wiki/01.-Getting-started). Once installed, you can extract the balatro-safety.zip release into your steamodded `Balatro/Mods` folder.
 
 ## Current features
 The mod will present a confirmation box upon the usage of these spectral cards. Clicking cancel will give you the opportunity to pick another.
